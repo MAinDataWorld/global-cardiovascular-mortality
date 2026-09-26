@@ -4,6 +4,8 @@ This document summarizes the main findings generated from the SQL analysis of th
 
 The full analysis is reproducible using the queries in [View the SQL analysis](cvd_mortality_metrics.sql) and the cleaned dataset in [View the cleaned dataset](../data/cleaned/).
 
+The full outputs of the sql queries that formed the base of this document can be found in [View the results](../results/).
+
 ---
 
 ## 1. Dataset Overview
