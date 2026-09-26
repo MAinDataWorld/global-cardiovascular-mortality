@@ -2,7 +2,7 @@
 
 This document summarizes the main findings generated from the SQL analysis of the cleaned cardiovascular disease (CVD) mortality dataset. The analysis covers 117 countries/entities across the period 1950–2023.
 
-The full analysis is reproducible using the queries in [View the SQL analysis](cvd_mortality_metrics) and the cleaned dataset in [View the cleaned dataset](../data/cleaned/).
+The full analysis is reproducible using the queries in [View the SQL analysis](cvd_mortality_metrics.sql) and the cleaned dataset in [View the cleaned dataset](../data/cleaned/).
 
 ---
 
