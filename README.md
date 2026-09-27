@@ -1,5 +1,7 @@
 # global-cardiovascular-mortality
+
 End-to-end analysis of global cardiovascular mortality trends using Python, SQL, and Power BI.
+
 # CVD Mortality Analysis
 
 ## Project Overview
@@ -80,17 +82,17 @@ powerbi/
 
 The raw dataset is stored in:
 
-`data/raw/CVD_raw.csv`
+[`data/raw/CVD_raw.csv`](data/raw/CVD_raw.csv)
 
-The Python script `python/clean_data.py` standardizes the raw data and saves the processed dataset to:
+The Python script [`python/clean_data.py`](python/clean_data.py) standardizes the raw data and saves the processed dataset to:
 
-`data/cleaned/CVD_cleaned.csv`
+[`data/cleaned/CVD_cleaned.csv`](data/cleaned/CVD_cleaned.csv)
 
 ### 2. SQL Analysis
 
 The cleaned dataset is analyzed using:
 
-`sql/cvd_mortality_metrics.sql`
+[`sql/cvd_mortality_metrics.sql`](sql/cvd_mortality_metrics.sql)
 
 The analysis covers:
 
@@ -105,16 +107,16 @@ The analysis covers:
 
 The resulting datasets are stored in `results/`, with key findings documented in:
 
-`sql/sql_key_findings.md`
+[`sql/sql_key_findings.md`](sql/sql_key_findings.md)
 
 ### 3. Python Analysis and Visualization
 
 Four Python scripts use the cleaned dataset to generate exploratory visualizations:
 
-* `python/egypt_trends_over_time.py`
-* `python/overall_cvd_mortality.py`
-* `python/top_20_in_2019.py`
-* `python/yearly_changes_for_selected_countries.py`
+* [`python/egypt_trends_over_time.py`](python/egypt_trends_over_time.py)
+* [`python/overall_cvd_mortality.py`](python/overall_cvd_mortality.py)
+* [`python/top_20_in_2019.py`](python/top_20_in_2019.py)
+* [`python/yearly_changes_for_selected_countries.py`](python/yearly_changes_for_selected_countries.py)
 
 The resulting figures are stored in `visualizations/`.
 
@@ -122,7 +124,7 @@ The resulting figures are stored in `visualizations/`.
 
 The interactive dashboard is contained in:
 
-`powerbi/cvd_mortality_analysis.pbix`
+[`powerbi/cvd_mortality_analysis.pbix`](powerbi/cvd_mortality_analysis.pbix)
 
 The dashboard combines KPI cards, trend analysis, country comparisons, and an Egypt-focused view. Dashboard screenshots are also included in the `powerbi/` folder.
 
@@ -271,4 +273,3 @@ The repository contains the complete analytical workflow, including:
 ## Conclusion
 
 This project demonstrates an end-to-end approach to analyzing health-related mortality data, combining **Python, SQL, and Power BI** to move from raw data preparation to statistical analysis, visualization, and interactive reporting.
-
