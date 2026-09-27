@@ -73,6 +73,8 @@ powerbi/
 ├── global_overview.png
 └── global_overview_filtered_turkmenistan.png
 
+├── .gitignore
+
 └── README.md
 ```
 
