@@ -272,6 +272,20 @@ The repository contains the complete analytical workflow, including:
 * Dashboard screenshots
 * Documentation of data limitations and methodology
 
+  
+## Key Findings
+
+The analysis identified a substantial decline in the global average CVD mortality rate over the period covered by the dataset, falling from 429.5 deaths per 100,000 in 1950 to 172.2 in 2022. The rate increased to 189.8 in 2023; however, the available data cannot determine whether this represents a sustained reversal or a short-term fluctuation.
+
+The analysis also demonstrated substantial differences in CVD mortality rates between countries. 
+
+Egypt showed a different pattern from the overall global trend across its available observations, increasing from 259.2 deaths per 100,000 in 1965 to 459.3 in 2019. Its average mortality rate across available observations was also higher than that of the United States, United Kingdom, and Japan in this analysis.
+
+These findings should be interpreted in light of important data limitations, particularly the substantial gaps in Egypt's time series and the fact that countries do not have identical periods of data availability.
+
+## Conclusion
+
+The results highlight a broad decline in global CVD mortality over the available period, alongside substantial differences between countries and a distinct pattern in Egypt's available observations. The analysis also demonstrates the importance of considering missing data and differences in data coverage when interpreting long-term health trends.
 ## Conclusion
 
 This project demonstrates an end-to-end approach to analyzing health-related mortality data, combining **Python, SQL, and Power BI** to move from raw data preparation to statistical analysis, visualization, and interactive reporting.
