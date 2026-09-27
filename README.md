@@ -221,7 +221,7 @@ The missing periods affect interpretation of Egypt's long-term trend. Some of th
 
 These represent differences between available observations separated by missing years and should not be interpreted as continuous year-by-year changes.
 
-The analysis also does not independently assess the original methodology used to estimate mortality rates for each country. For methodological details, the underlying OWID and WHO Mortality Database documentation should be consulted.
+The analysis also does not independently assess the original methodology used to estimate mortality rates for each country. 
 
 ## Key Analytical Areas
 
